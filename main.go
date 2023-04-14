@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	Which()
+	Log_me_custom()
+	Log_me_daddy()
 }
